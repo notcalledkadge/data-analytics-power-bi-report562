@@ -20,3 +20,9 @@ The final part of Task 2 was to remove missing or null values from the Orders Da
 Task 3 was to import and transform the **Products** table, which this time was provided as a .CSV file. Once again, I used the built-in 'Get Data' function that Power BI has and selected the .CSV filetype. 
 
 As per project guidance, I removed duplicated rows from the 'Product Code' column to ensure that each product code was unique. To do this, I loaded the newly-imported Products Table into the Power Query Editor, used the "Reduce Rows" function, chose Product Code, and selected "Remove Duplicates".
+
+### Task 4: *Import and Transform 'Stores' Dimension Table*
+
+Task 4 did not have too much in the way of guidance in the way of what to do once the Stores table had been imported into Power BI. It was more educational on how to work with Azure Blob Storage in Power BI. 
+
+Using the Get Data function as usual, I used the Azure Blob Storage datatype as what I would be importing. Through the course materials, I was provided an Account Name, Account Key and Container Name. The blob function first asked me for the 
