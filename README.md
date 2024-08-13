@@ -1,4 +1,14 @@
 # Data Analytics Power BI Report.
+## Contents
+- Milestone 2
+- Milestone 3
+- Milestone 4
+- Milestone 5
+- Milestone 6
+- Milestone 7
+- Milestone 8
+- Milestone 9
+
 ## Milestone 2
 
 The main focus of Milestone 2 was to import the necessary elements required to produce this report into Power BI. The elements that I imported were: **Orders**, **Products**, **Stores** and **Customers**.
